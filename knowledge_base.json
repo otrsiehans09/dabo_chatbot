@@ -1,0 +1,87 @@
+{
+  "categories": [
+    {
+      "name": "Produits",
+      "description": "Produits éducatifs et culturels liés aux symboles Adinkra et à la mécatronique.",
+      "details": [
+        {
+          "item": "Les sapientogrammes ou l’Écriture philosophique Adinkra",
+          "description": "Livre en francais, activités éducatives, 15€, 7 ans+"
+        },
+        {
+          "item": "Adinkra, the Sapientograms by Dr Marcelin DABO",
+          "description": "Livre en 4 langues (twi, français, wolof, anglais) activités éducative, activités adaptées, 15€, 4 ans+"
+        },
+        {
+          "item": "Set de coloriage / collage",
+          "description": "Kit de coloriage (48 Gommettes, 1 feuille de coloriage et 1 lexique de sapientogrammes), 3€, 4 ans+"
+        },
+        {
+          "item": "Ballons de baudruche 8 couleurs",
+          "description": "Ce sont des ballons dans lesquels on peut souffler et qui sont utilisés pour des festivités (anniversaires, mariage, baptemes, etc)., 4€ les 10, 4 ans+"
+        },
+        {
+          "item": "Systèmes dynamiques",
+          "description": "Ouvrage scientifique sur l'automatique, 70€"
+        }
+      ],
+      "page_target": "Produits"
+    },
+    {
+      "name": "Contact",
+      "description": "Coordonnées pour joindre Dabo Academy.",
+      "details": [
+        {
+          "item": "Support",
+          "description": "Email: contact@daboacademy.com, WhatsApp: +33 6 85 53 16 96, Propriétaire: Mr Marcellin Dabo"
+        }
+      ],
+      "page_target": "Contact"
+    },
+    {
+      "name": "Commande",
+      "description": "Étapes pour passer une commande avec Dabo Academy.",
+      "details": [
+        {
+          "step_number": 1,
+          "title": "Sélection",
+          "description": "Choisir un produit sur la boutique."
+        },
+        {
+          "step_number": 2,
+          "title": "Panier",
+          "description": "Ajouter au panier et vérifier les détails."
+        },
+        {
+          "step_number": 3,
+          "title": "Paiement",
+          "description": "Effectuer le paiement via le site."
+        }
+      ],
+      "page_target": "Commande"
+    },
+    {
+      "name": "Activités",
+      "description": "Activités éducatives proposées par Dabo Academy.",
+      "details": [
+        {
+          "item": "Coloriage Adinkra",
+          "description": "Activités pour enfants avec sapientogrammes."
+        },
+        {
+          "item": "Collage",
+          "description": "Utilisation de gommettes et feuilles."
+        },
+        {
+          "item": "Apprentissage sapientogrammes",
+          "description": "Découverte des symboles Adinkra."
+        },
+        {
+          "item": "Mécatronique",
+          "description": "Exploration avec le banc de tests."
+        }
+      ],
+      "page_target": "Activités"
+    }
+  ]
+}
